@@ -1,0 +1,21 @@
+# Java .gitignore
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration files
+local.properties
